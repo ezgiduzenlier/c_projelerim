@@ -1,0 +1,2 @@
+﻿  switch_example.cpp
+C:\Users\EzgiDüzenlier\Desktop\C-study\c_c++\switch_example\switch_example.cpp(18): error C4700: uninitialized local variable 'islem' used

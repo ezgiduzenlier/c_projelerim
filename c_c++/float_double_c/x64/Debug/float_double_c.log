@@ -1,0 +1,5 @@
+﻿  float_double_c.cpp
+C:\Users\EzgiDüzenlier\Desktop\C-study\c_c++\float_double_c\float_double_c.cpp(10,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\EzgiDüzenlier\Desktop\C-study\c_c++\float_double_c\float_double_c.cpp(11,22): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\EzgiDüzenlier\Desktop\C-study\c_c++\float_double_c\float_double_c.cpp(11,22): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  float_double_c.vcxproj -> C:\Users\EzgiDüzenlier\Desktop\C-study\c_c++\x64\Debug\float_double_c.exe

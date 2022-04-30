@@ -1,0 +1,4 @@
+﻿  operators.cpp
+C:\Users\EzgiDüzenlier\Desktop\C-study\c_c++\operators\operators.cpp(19,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\EzgiDüzenlier\Desktop\C-study\c_c++\operators\operators.cpp(20,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  operators.vcxproj -> C:\Users\EzgiDüzenlier\Desktop\C-study\c_c++\x64\Debug\operators.exe

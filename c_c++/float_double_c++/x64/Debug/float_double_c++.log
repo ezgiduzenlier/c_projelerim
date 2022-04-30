@@ -1,0 +1,3 @@
+﻿  float_double_c++.cpp
+C:\Users\EzgiDüzenlier\Desktop\C-study\c_c++\float_double_c++\float_double_c++.cpp(8,23): warning C4305: '=': truncation from 'double' to 'float'
+  float_double_c++.vcxproj -> C:\Users\EzgiDüzenlier\Desktop\C-study\c_c++\x64\Debug\float_double_c++.exe

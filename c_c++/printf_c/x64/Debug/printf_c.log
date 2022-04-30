@@ -1,0 +1,4 @@
+﻿  printf_c.cpp
+C:\Users\EzgiDüzenlier\Desktop\C-study\c_c++\printf_c\printf_c.cpp(6,21): warning C4101: 'sayi2': unreferenced local variable
+C:\Users\EzgiDüzenlier\Desktop\C-study\c_c++\printf_c\printf_c.cpp(6,28): warning C4101: 'sayi3': unreferenced local variable
+  printf_c.vcxproj -> C:\Users\EzgiDüzenlier\Desktop\C-study\c_c++\x64\Debug\printf_c.exe
